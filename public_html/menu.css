@@ -1,0 +1,21 @@
+body {
+  background-image: url("menu.jpeg"); /* Replace with your image path */
+  background-size: cover; /* Adjust to fit the container (optional) */
+  background-repeat: no-repeat; /* Prevent image tiling (optional) */
+  background-position: center; /* Center the image (optional) */
+  font-family: Arial, sans-serif; /* Set your preferred font */
+  margin: 0; /* Remove default margin for better control */
+  padding: 40px; /* Add some padding for content */
+}
+p,ul,h2,h1{
+    color:white;
+    font-size:30px
+}
+h3{
+    color:white;
+    font-size:20px;
+}
+td{
+    color:white;
+    font-size:30px;
+}
